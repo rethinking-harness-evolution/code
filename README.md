@@ -150,7 +150,7 @@ include:
 
 Feel free to find more details in the paper. If you have any questions or comments, or notice any issues, contact us at yikewang@cs.washington.edu, tengxiao01@gmail.com, and zhuhs1998@gmail.com. If you found this work helpful, please consider starring the repository and citing us:
 ```bibtex
-@misc{wang2026rethinkingharnessevolution,
+@misc{wang2026rethinking,
   title  = {Rethinking the Evaluation of Harness Evolution for Agents},
   author = {Wang, Yike and Zhu, Huaisheng and Hu, Zhengyu and Yuan, Yige and Chen, Zhengyu and Senthil, Shakti and Hajishirzi, Hannaneh and Tsvetkov, Yulia and Smith, Noah A. and Dasigi, Pradeep and Xiao, Teng},
   year          = {2026},
