@@ -148,12 +148,14 @@ include:
 
 ## Contact Us
 
-Feel free to find more details in the paper. This is still a work in progress; if you have any questions or comments, or notice any issues, contact us at yikewang@cs.washington.edu, tengx@allenai.org, and zhuhs1998@gmail.com. If you found this work helpful, please consider starring the repository and citing us:
+Feel free to find more details in the paper. If you have any questions or comments, or notice any issues, contact us at yikewang@cs.washington.edu, tengxiao01@gmail.com, and zhuhs1998@gmail.com. If you found this work helpful, please consider starring the repository and citing us:
 ```bibtex
 @misc{wang2026rethinkingharnessevolution,
   title  = {Rethinking the Evaluation of Harness Evolution for Agents},
-  author = {Yike Wang and Huaisheng Zhu and Zhengyu Hu and Yige Yuan and Zhengyu Chen and Shakti Senthil and Hannaneh Hajishirzi and Yulia Tsvetkov and Pradeep Dasigi and Teng Xiao},
-  journal = {arXiv preprint arXiv:2607.12227},
-  year = {2026}
+  author = {Wang, Yike and Zhu, Huaisheng and Hu, Zhengyu and Yuan, Yige and Chen, Zhengyu and Senthil, Shakti and Hajishirzi, Hannaneh and Tsvetkov, Yulia and Smith, Noah A. and Dasigi, Pradeep and Xiao, Teng},
+  year          = {2026},
+  eprint        = {2607.12227},
+  archivePrefix = {arXiv},
+  url           = {https://arxiv.org/abs/2607.12227}
 }
 ```
